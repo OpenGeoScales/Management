@@ -1,3 +1,4 @@
+
 <h1 align="center">Welcome to OpenGeoScales Management 👋</h1>
 
 <p align="center">
@@ -19,4 +20,8 @@
   </a>
 </p>
 
-![OpenGeoScales](./images/logo.jpg)
+<p align="center">
+  <img src="https://github.com/OpenGeoScales/Management/blob/main/images/logo.jpg" />
+</p>
+
+
