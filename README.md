@@ -12,9 +12,9 @@
 </p>
 
 # Introduction
-:smiling_face_with_three_hearts:
+You are in the management board of OpenGeoScales!
 
 # Acknowledgements
 
 - Make shields: https://shields.io/
-- Get emojis: https://github.com/ikatyang/emoji-cheat-sheet
+- :smiling_face_with_three_hearts: Get emojis: https://github.com/ikatyang/emoji-cheat-sheet
