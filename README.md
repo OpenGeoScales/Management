@@ -39,12 +39,19 @@ Empower citizens, governments, NGOs, academia, companies and investors with reli
 # How?
 
 1 - Identify climate change related topics with potential interested persons/users/organizations in accruate and relevant data and analytics *(e.g. GHG emissions)*
+
 2 - List a set of questions to answer by synthesizing  various source of knwoledge *(e.g. What are GHG emissions? How ghg emissions are measured? How GHG emissions data are collected? By whom? Why is it inmportant to reduce our emissions? What are the more impactful sectors?...)*
+
 3 - Implement adhoc analytics: identifying data sources, analyzing data sources, defining normalized data models, defining data processing to clean/normalize raw data...
+
 4 - Industrialize data pipelines: data collection, ingestion, processing, cleaned data storage
+
 5 - Implement analytics reports based on the cleaned and harmonized database in order to answer the defined questions
+
 6 - Develop interactive dashboards to visualize the aggeragted data
+
 7 - Develop APIs to expose cleaned from built databases
+
 8 - Get users feedbacks to identify improvements and further analysis
 
 <p align="center">
