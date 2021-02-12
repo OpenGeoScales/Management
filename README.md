@@ -40,6 +40,8 @@ Empower citizens, governments, NGOs, academia, companies and investors with reli
 
 ![OGS Workflow](images/OGS - Workflow.png)
 
+images/OGS - Workflow.png
+
 # Acknowledgements
 
 - Make shields: https://shields.io/
