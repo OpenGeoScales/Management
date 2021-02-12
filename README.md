@@ -36,11 +36,45 @@ Empower citizens, governments, NGOs, academia, companies and investors with reli
 - Geospatial data
 - Geographical scales: country, city, grid
 
-# What?
+# How?
 
-![OGS Workflow](images/OGS - Workflow.png)
+1 - Identify climate change related topics with potential interested persons/users/organizations in accruate and relevant data and analytics *(e.g. GHG emissions)*
+2 - List a set of questions to answer by synthesizing  various source of knwoledge *(e.g. What are GHG emissions? How ghg emissions are measured? How GHG emissions data are collected? By whom? Why is it inmportant to reduce our emissions? What are the more impactful sectors?...)*
+3 - Implement adhoc analytics: identifying data sources, analyzing data sources, defining normalized data models, defining data processing to clean/normalize raw data...
+4 - Industrialize data pipelines: data collection, ingestion, processing, cleaned data storage
+5 - Implement analytics reports based on the cleaned and harmonized database in order to answer the defined questions
+6 - Develop interactive dashboards to visualize the aggeragted data
+7 - Develop APIs to expose cleaned from built databases
+8 - Get users feedbacks to identify improvements and further analysis
 
-images/OGS - Workflow.png
+<p align="center">
+  <img src="https://github.com/OpenGeoScales/Management/blob/main/images/OGS%20-%20Workflow.png" />
+</p>
+
+# Topics
+
+- GHG emissions: City GHG emissions (evolution, comparative study, emissions by sector…)
+- climate hazards: City exposure to climate hazards impact, vulnerability index, climate hazards events 
+- Air quality: Air quality index in city level
+- Mobility: Transportation related emissions, transportation modes...
+- Energy: Energy mix, percent of renewable energy
+- Land use: Urban development, deforestation...
+- Society: Demographics, urban population...
+
+# target users
+
+- Citizens
+- Governments: policy makers, local authorities
+- NGOs: World Resources Institute, Carbon Disclosure Project, The Shift Project, C40 cities, Our world in data…
+- Academia: Researchers, students
+- Journalists: Data journalism
+- Data professionals
+
+# Inspired by
+
+- Our worl in Data
+- World Resources Institute: Climate Watch
+- Open Data Institute
 
 # Acknowledgements
 
