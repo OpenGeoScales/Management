@@ -25,7 +25,7 @@ Increasing open data providers, platforms and portals --> Lack of platforms prov
 - **City/community scale**:
 Increasing interest of local policymakers in climate impacts in city/community scale --> Rare data is provided in small scale
 
-# Goals
+# Goal
 
 Empower citizens, governments, NGOs, academia, companies and investors with reliable open geo-spatial data and open source analytics to address city-level climate change impacts.
 
@@ -35,6 +35,10 @@ Empower citizens, governments, NGOs, academia, companies and investors with reli
 - Community: collaborative work, open source community
 - Geospatial data
 - Geographical scales: country, city, grid
+
+# What?
+
+![OGS Workflow](images/OGS - Workflow.png)
 
 # Acknowledgements
 
