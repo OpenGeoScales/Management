@@ -84,6 +84,12 @@ Empower citizens, governments, NGOs, academia, companies and investors with reli
 - World Resources Institute: Climate Watch
 - Open Data Institute
 
+# Get started
+
+# Contribute
+
+# License
+
 # Acknowledgements
 
 - Make shields: https://shields.io/
