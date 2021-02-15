@@ -1,5 +1,6 @@
 
-<h1 align="center">Welcome to OpenGeoScales Management 👋</h1>
+<h1 align="center">Welcome to OpenGeoScales  👋</h1>
+<h2 align="center">Unlocking Climate Change Data & Knwoledge </h2>
 
 <p align="center">
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
