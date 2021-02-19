@@ -39,6 +39,8 @@ Organization Name| Tags | Short description|
 [Earth System Science Data](https://www.earth-system-science-data.net/about/aims_and_scope.html)|  `Opendata` `Environment` |  Earth System Science Data (ESSD) is an international, interdisciplinary journal for the publication of articles on original research data (sets), furthering the reuse of high-quality data of benefit to Earth system sciences. The editors encourage submissions on original data or data collections which are of sufficient quality and have the potential to contribute to these aims. |
 [OS-climat](https://www.os-climate.org/)|  `Opensource` `Climat` |  OS-C is establishing an Open Source collaboration community to build a software platform that will dramatically boost global capital flows into climate change mitigation and resilience. Through a non-profit, non-competitive organization, OS-C will aggregate the best available data, modeling, and computing and data science worldwide into an AI-enhanced physical-economic model that functions like an operating system, enabling powerful applications for climate-integrated investing in a world where the future will be very different from the past.|
 [Global Partnership for Sustainable Development Data]https://www.data4sdgs.org/about-gpsdd)|  `Opendata` `Sustainability` | |
+[Esri](https://www.esrifrance.fr/ouverture-open-data.aspx)|  `Opendata` `Geo` | |
+[IGN](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html)|  `Opendata` `Geo` | |
 
 # City scale
 
