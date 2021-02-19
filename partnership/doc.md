@@ -1,24 +1,5 @@
 
-Here is a list of potential partnerships with identified organisations interested in climate, environment and open data:
-
-# City scale
-
-Organization Name| Tags | Short description| 
---- | --- | --- | 
-[C40 cities](https://www.c40.org/about) |  `City` `Carbon` |  C40 is a network of the world’s megacities committed to addressing climate change. C40 supports cities to collaborate effectively, share knowledge and drive meaningful, measurable and sustainable action on climate change.([see city emission dashboards](https://www.c40knowledgehub.org/s/article/C40-cities-greenhouse-gas-emissions-interactive-dashboard?language=en_US)) |
-[Carbon Disclosure Project (CDP)](https://www.cdp.net/en)|  `City` `Carbon` `Opendata`   |  CDP is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts |
-[Global Govenant of Mayors for Climate & Energy](https://www.globalcovenantofmayors.org/)|  `City` `Climate` `Energy`| It is a global coalition of city leaders addressing climate change by pledging to cut greenhouse gas emissions and prepare for the future impacts of climate change|
-[United Cities and Local Governments (UCLG)](https://www.uclg.org/fr)|  `City`| |
-[GLobal Task Force of local and regional governments](https://www.global-taskforce.org/)|  `City` `SDG` | The Global Taskforce of Local and Regional Governments is a coordination and consultation mechanism that brings together the major international networks of local governments to undertake joint advocacy work relating to global policy processes. It was set up in 2013 to bring the perspectives of local and regional governments to the SDGs, climate change agenda and New Urban Agenda in particular.|
-[Local Governments for Sustainability (ICLEI)](https://iclei.org/)|  `City` `Sustainability`| ICLEI – Local Governments for Sustainability is a global network of more than 1,750 local and regional governments committed to sustainable urban development.([see Circle City Scan Tool](https://cities.circle-lab.com/))|
-[Cités unies france](https://cites-unies-france.org/)|  `City`|  Elle accompagne l’ensemble de ces collectivités dans la mise en œuvre d’une action internationale au service de leur ouverture à l’international, de leur rayonnement, de leur attractivité et de la promotion des échanges humains, culturels et économiques. 
-[Global Parlement of Mayors](https://globalparliamentofmayors.org/)|  `City` Sustainability`| The Global Parliament of Mayors is a governance body of, by and for mayors from all continents with a vision to the world in which mayors, their cities and networks are equal partners in building global governance for an inclusive and sustainable world.
-[Cities Alliance](https://www.citiesalliance.org/)|  `City` `Climate` | |
-[UNHABITAT](https://unhabitat.org/)|  `City` `Climate`| |
-[Carbon Neutral Cities Alliance](https://carbonneutralcities.org/)|  `City` `Carbon`| | The Carbon Neutral Cities Alliance (CNCA) is a collaboration of leading global cities working to achieve carbon neutrality in the next 10-20 years – the most aggressive GHG reduction targets undertaken anywhere by any city.
-[City Business Climate Alliance (CBCA) ](https://www.city-businessclimatealliance.org/)|  `City` `Climate`| | The CBCA provides the most ambitious city and business leaders with a platform to convene, set joint commitments, co-create, and eventually implement projects that help cities deliver on their Climate Action Plans in line with the Paris Agreement. |
-[Regions4](https://www.regions4.org/)|  `City`| | |
-[Bloombeg city network](https://bloombergcities.jhu.edu/mayors-challenge)|  `City`| |
+Here is a list of potential partnerships with identified organisations working in climate, environment and open data:
 
 # Climate & environment & sustainability
 
@@ -55,3 +36,22 @@ Organization Name| Tags | Short description|
 [Open Carbon Watch](https://opencarbonwatch.org/fr)|  `Opendata`  `Carbon` | Nous suivons dans le temps les bilans d'émissions de gaz à effet de serre publiés par les organisations publiques ou privées, et nous les comparons à leurs obligations légales et à leurs engagements volontaires.|
 [Integrated Carbon Observation System](https://www.icos-cp.eu/about/icos-in-nutshell/mission)|  `Opendata`  `Carbon` | Our mission is to produce standardised, high-precision and long-term observations and facilitate research to understand the carbon cycle and to provide necessary information on greenhouse gases. We promote technological developments and demonstrations related to greenhouse gases by linking research, education and innovation. With our high-precision data, we aim to support policy- and decision-making to combat climate change and its impacts.
 [Earth System Science Data](https://www.earth-system-science-data.net/about/aims_and_scope.html)|  `Opendata` `Environment` |  Earth System Science Data (ESSD) is an international, interdisciplinary journal for the publication of articles on original research data (sets), furthering the reuse of high-quality data of benefit to Earth system sciences. The editors encourage submissions on original data or data collections which are of sufficient quality and have the potential to contribute to these aims. |
+
+# City scale
+
+Organization Name| Tags | Short description| 
+--- | --- | --- | 
+[C40 cities](https://www.c40.org/about) |  `City` `Carbon` |  C40 is a network of the world’s megacities committed to addressing climate change. C40 supports cities to collaborate effectively, share knowledge and drive meaningful, measurable and sustainable action on climate change.([see city emission dashboards](https://www.c40knowledgehub.org/s/article/C40-cities-greenhouse-gas-emissions-interactive-dashboard?language=en_US)) |
+[Carbon Disclosure Project (CDP)](https://www.cdp.net/en)|  `City` `Carbon` `Opendata`   |  CDP is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts |
+[Global Govenant of Mayors for Climate & Energy](https://www.globalcovenantofmayors.org/)|  `City` `Climate` `Energy`| It is a global coalition of city leaders addressing climate change by pledging to cut greenhouse gas emissions and prepare for the future impacts of climate change|
+[United Cities and Local Governments (UCLG)](https://www.uclg.org/fr)|  `City`| |
+[GLobal Task Force of local and regional governments](https://www.global-taskforce.org/)|  `City` `SDG` | The Global Taskforce of Local and Regional Governments is a coordination and consultation mechanism that brings together the major international networks of local governments to undertake joint advocacy work relating to global policy processes. It was set up in 2013 to bring the perspectives of local and regional governments to the SDGs, climate change agenda and New Urban Agenda in particular.|
+[Local Governments for Sustainability (ICLEI)](https://iclei.org/)|  `City` `Sustainability`| ICLEI – Local Governments for Sustainability is a global network of more than 1,750 local and regional governments committed to sustainable urban development.([see Circle City Scan Tool](https://cities.circle-lab.com/))|
+[Cités unies france](https://cites-unies-france.org/)|  `City`|  Elle accompagne l’ensemble de ces collectivités dans la mise en œuvre d’une action internationale au service de leur ouverture à l’international, de leur rayonnement, de leur attractivité et de la promotion des échanges humains, culturels et économiques. 
+[Global Parlement of Mayors](https://globalparliamentofmayors.org/)|  `City` Sustainability`| The Global Parliament of Mayors is a governance body of, by and for mayors from all continents with a vision to the world in which mayors, their cities and networks are equal partners in building global governance for an inclusive and sustainable world.
+[Cities Alliance](https://www.citiesalliance.org/)|  `City` `Climate` | |
+[UNHABITAT](https://unhabitat.org/)|  `City` `Climate`| |
+[Carbon Neutral Cities Alliance](https://carbonneutralcities.org/)|  `City` `Carbon`| | The Carbon Neutral Cities Alliance (CNCA) is a collaboration of leading global cities working to achieve carbon neutrality in the next 10-20 years – the most aggressive GHG reduction targets undertaken anywhere by any city.
+[City Business Climate Alliance (CBCA) ](https://www.city-businessclimatealliance.org/)|  `City` `Climate`| | The CBCA provides the most ambitious city and business leaders with a platform to convene, set joint commitments, co-create, and eventually implement projects that help cities deliver on their Climate Action Plans in line with the Paris Agreement. |
+[Regions4](https://www.regions4.org/)|  `City`| | |
+[Bloombeg city network](https://bloombergcities.jhu.edu/mayors-challenge)|  `City`| |
