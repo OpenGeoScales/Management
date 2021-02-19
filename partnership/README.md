@@ -42,6 +42,9 @@ Organization Name| Tags | Short description|
 [Esri](https://www.esrifrance.fr/ouverture-open-data.aspx)|  `Opendata` `Geo` | |
 [IGN](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html)|  `Opendata` `Geo` | |
 
+- [Public Data Lab](https://www.publicdatalab.org/)
+- [First Draft](https://fr.firstdraftnews.org/): Ressources pour la collecte et la vérification d'informations à destination des journalistes
+
 # City scale
 
 Organization Name| Tags | Short description| 
