@@ -80,7 +80,7 @@ Empower citizens, governments, NGOs, academia, companies and investors with reli
 
 # Inspired by
 
-- Our worl in Data
+- Our world in Data
 - World Resources Institute: Climate Watch
 - Open Data Institute
 
