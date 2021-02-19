@@ -80,9 +80,12 @@ Empower citizens, governments, NGOs, academia, companies and investors with reli
 
 # Inspired by
 
-- Our world in Data
-- World Resources Institute: Climate Watch
-- Open Data Institute
+- Open data
+  - Our world in Data
+  - World Resources Institute: Climate Watch
+  - Open Data Institute
+- Collaborative data tools:
+-   [Made with ML](https://madewithml.com/)
 
 # Get started
 
