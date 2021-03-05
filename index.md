@@ -24,7 +24,9 @@ Pour remédier à ces difficultées, nous proposons dans le cadre du projet Open
 Le projet proposé dans le cadre de la saison 9 de Data for Good consiste à implémenter la première brique d’OpenGeoScales consacrée à la consolidation et l’harmonisation des données liées aux émissions des gaz à effets de serre (GESs). Pour ce prototype, seulement les données d’émissions de GESs à différentes échelles du **territoire français** seront considérées, tout en prenant en compte les contraintes d’adaptation à d'autres territoires. 
 
 -------
+
 Le livrable principal de cette saison consiste en une base de données qui réunit les différentes données d’émissions de GESs à différentes échelles en France accompagnée des traitements appliqués sur les données brutes pour les harmoniser ainsi qu’une API permettant d’accéder et de requêter les données standardisées
+
 -------
 
 
