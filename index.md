@@ -25,7 +25,7 @@ Le projet proposé dans le cadre de la saison 9 de Data for Good consiste à imp
 
 -------
 
-Le livrable principal de cette saison consiste en une base de données qui réunit les différentes données d’émissions de GESs à différentes échelles en France accompagnée des traitements appliqués sur les données brutes pour les harmoniser ainsi qu’une API permettant d’accéder et de requêter les données standardisées
+**Le livrable principal de cette saison consiste en une base de données qui réunit les différentes données d’émissions de GESs à différentes échelles en France accompagnée des traitements appliqués sur les données brutes pour les harmoniser ainsi qu’une API permettant d’accéder et de requêter les données standardisées.**
 
 -------
 
@@ -99,7 +99,7 @@ Des rapprochements avec les contributeurs de ces projets sont nécessaires afin 
 
 Un rapprochement avec les principaux acteurs publics et privés en conseil carbone est prévu tout au long du projet afin d’avoir un appui méthodologique et fonctionnel sur l’usage des données d’émissions de GESs. Parmi les acteurs identifiés, on peut citer: l’ADEME, l’Association Bilan Carbone, la CITEPA, l’Institut de Formation Carbone…
 
-Le recensement des principaux acteurs du conseil carbone effectué par l’Association Bilan Carbone peut être utilisé pour cibler des potentiels partenariats: https://www.associationbilancarbone.fr/cartographie-des-acteurs/
+Le recensement des [principaux acteurs du conseil carbone](https://www.associationbilancarbone.fr/cartographie-des-acteurs/) effectué par l’Association Bilan Carbone peut être utilisé pour cibler des potentiels partenariats: 
 
 ### Projets inspirants
 
@@ -122,9 +122,9 @@ Le schéma ci-dessous présente une feuille de route préliminaire pour délivre
 
 ## Gestion de projet
 
-Le code source sera disponible sur Github. Un repository dédié aux données carbone a déjà été créé et est utilisé: https://github.com/OpenGeoScales/CarbonData
+Le code source sera disponible sur Github. Un repository dédié aux données carbone a déjà été créé et est utilisé: [Repo CarbonData](https://github.com/OpenGeoScales/CarbonData)
 
-Github Projects sera utilisé comme outil de gestion du développement des différentes fonctionnalités. Il permet de suivre l'évolution des tâches matérialisées comme des ‘issues’ via un board Kanban automatisé. Un premier projet est en cours et qui peut être consulté ici: https://github.com/OpenGeoScales/CarbonData/projects/2
+Github Projects sera utilisé comme outil de gestion du développement des différentes fonctionnalités. Il permet de suivre l'évolution des tâches matérialisées comme des ‘issues’ via un board Kanban automatisé. Un premier projet est en cours et qui peut être consulté ici: [CarbonData Project Board](https://github.com/OpenGeoScales/CarbonData/projects/2)
 
 Les itérations seront basées sur des sprints de 2 semaines avec des objectifs bien précis à définir en amont.
 
