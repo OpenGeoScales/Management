@@ -1,6 +1,6 @@
 
 
-> Ce document décrit le projet OpenGeoScales présenté dans le cadre de la saison 9 du programme Data For Good. Un document technique complémentaire présentant des premières  explorations des données liées aux émissions des gaz à effet de serre est disponible [ici](https://opengeoscales.github.io/CarbonData/)
+> Ce document décrit le cadrage fonctionnel du projet OpenGeoScales présenté dans le cadre de la saison 9 du programme Data For Good. Un document technique complémentaire présentant des premières explorations des données liées aux émissions des gaz à effet de serre est disponible [dans ce lien](https://opengeoscales.github.io/CarbonData/).
 >
 > Mots clé: `Open Data`, `Geospatial scales`, `Climate Change`, `GHG emissions`, `Standardization`, `Open Source`
 >
@@ -12,16 +12,16 @@
 
 ## Contexte
 
-Les enjeux environnementaux prennent de plus en plus d’importance dans les politiques publiques ainsi que dans notre vie quotidienne.  La connaissance de l’état de notre planète et de l’impact des activités humaines sur l’environnement nécessite un accès libre et facile à des données fiables, consolidées, agrégées et documentées.
+Les enjeux environnementaux prennent de plus en plus d’importance dans les politiques publiques ainsi que dans notre vie quotidienne.  La connaissance de l’état de notre planète et de l’impact des activités humaines sur l’environnement nécessite **un accès libre et facile à des données fiables, consolidées, agrégées et documentées**.
 Alors que plusieurs plateformes et portails d’open data publient des données environnementales pertinentes (qualité d'air, émissions de gaz à effet de serre, risques naturels, ressources énergétiques…), l’usage de ces données s’avère souvent complexe et fastidieux. Un travail d’identification et de cartographie des différentes sources ainsi que des traitements de nettoyage, recodage, normalisation, croisement, consolidation et agrégation à différentes échelles géographiques est souvent nécessaire avant de pouvoir exploiter les données disponibles.
 
-Pour remédier à ces difficultées, nous proposons dans le cadre du projet OpenGeoScales de construire un point d'accès centralisé à des données environnementales standardisées et agrégées à différentes échelles géographiques. En plus de fournir des données environnementales fiables et normalisées, OpenGeoScales propose un accès libre aux traitements implémentés sur les données brutes collectées de diverses sources et ambitionne de fédérer une communauté open source participant à la production des données et des outils nécessaires pour les explorer.
+Pour remédier à ces difficultées, nous proposons dans le cadre du projet OpenGeoScales de construire **un point d'accès centralisé à des données environnementales standardisées et agrégées à différentes échelles géographiques**. En plus de fournir des données environnementales fiables et normalisées, OpenGeoScales propose un **accès libre aux traitements** implémentés sur les données brutes collectées de diverses sources et ambitionne de fédérer **une communauté open source** participant à la production des données et des outils nécessaires pour les explorer.
 
 ## Le projet
 
 ### Périmètre
 
-Le projet proposé dans le cadre de la saison 9 de Data for Good consiste à implémenter la première brique d’OpenGeoScales consacrée à la consolidation et l’harmonisation des données liées aux émissions des gaz à effets de serre (GESs). Pour ce prototype, seulement les données d’émissions de GESs à différentes échelles du **territoire français** seront considérées, tout en prenant en compte les contraintes d’adaptation à d'autres territoires. 
+Le projet proposé dans le cadre de la saison 9 de Data for Good consiste à implémenter la première brique d’OpenGeoScales consacrée à la consolidation et l’harmonisation des données liées aux **émissions des gaz à effets de serre (GESs)**. Pour ce prototype, seulement les données d’émissions de GESs à différentes échelles du **territoire français** seront considérées, tout en prenant en compte les contraintes d’adaptation à d'autres territoires. 
 
 -------
 
@@ -36,23 +36,23 @@ Plusieurs livrables intermédiaires sont nécessaires afin d’atteindre le prin
 
 #### Données brutes schémas sources:
 
-- Une cartographie complète des sources de données liées aux émissions de gaz à effets de serre à différentes échelles spatio-temporelles en France.
-- Une exploration des données identifiées: Bilan carbone (ADEME), Inventaire national (CITEPA), inventaire territorialisé (CITEPA)...
-- Une documentation technique des sources des données explorées: formats, champs,  couverture spatiale et temporelle, modes de collecte, protocole de mesure, fréquence de mise à jour, indice de confiance ou de fiabilité…
+- Une **cartographie** complète des sources de données liées aux émissions de gaz à effets de serre à différentes échelles spatio-temporelles en France.
+- Une **exploration** des données identifiées: Bilan carbone (ADEME), Inventaire national (CITEPA), inventaire territorialisé (CITEPA)...
+- Une **documentation technique** des sources des données explorées: formats, champs,  couverture spatiale et temporelle, modes de collecte, protocole de mesure, fréquence de mise à jour, indice de confiance ou de fiabilité…
 
 #### Données brutes schémas standardisés:
 
-- Développement de modèles de données standardisés qui permettent d'intégrer les différentes données brutes identifiées avec des tables d'association par source de données.
-- Alimentation d’une base de données qui centralise les différentes sources de données sélectionnées dans le nouveau format. Dans un premier temps, cette base sera alimentée uniquement au chargement initial des données sources. Une alimentation automatique de cette base en fonction de la fréquence d’actualisation des données est à prévoir pour des améliorations futures.
+- Développement de **modèles de données** standardisés qui permettent d'intégrer les différentes données brutes identifiées avec des tables d'association par source de données.
+- Alimentation d’une **base de données** qui centralise les différentes sources de données sélectionnées dans le nouveau format. Dans un premier temps, cette base sera alimentée uniquement au chargement initial des données sources. Une alimentation automatique de cette base en fonction de la fréquence d’actualisation des données est à prévoir pour des améliorations futures.
 
 #### Données consolidées schémas standardisé:
 
-- Application de traitements de transformations sur les données brutes: normalisation, recodage, agrégation, nettoyage...
-- Génération de rapports d'analyse des données afin d’en identifier la complétude et d’en extraire des insights sur les émissions des GESs en France: comparaison par villes et secteurs, évaluation des sources...
+- Application de **traitements de transformations** sur les données brutes: normalisation, recodage, agrégation, nettoyage...
+- Génération de **rapports d'analyse des données** et d'articles de vulgarisation afin d’en identifier la complétude et d’en extraire des insights sur les émissions des GESs en France: comparaison par villes et secteurs, évaluation des sources...
 
 #### API:
 
-- Développement et déploiement d’APIs pour requêter la base de données standardisée et permettre d’accéder rapidement aux données des émissions par entité géographique, échelle spatiale, catégories d’activités, scope…
+- Développement et déploiement d’**APIs** pour requêter la base de données standardisée et permettre d’accéder rapidement aux données des émissions par entité géographique, échelle spatiale, catégories d’activités, scope…
 - Documentation technique de l’API
 
 ## Utilisateurs
@@ -61,15 +61,15 @@ OpenGeoScales s’adresse à différents profils de potentiels utilisateurs ayan
 
 - **Journalisme:** Data journalistes, blogueurs  intéressés par les données carbone.
 - **Bureaux d’études en conseil carbone et environnement**
-- **Organismes non gouvernementaux** militants dans les questions climatiques et environnementales ([Notre affaire à tous](https://notreaffaireatous.org/, [The Shift Project](https://theshiftproject.org/), [Les amis de la terre](https://www.amisdelaterre.org/), [Association Bilan Carbone](https://www.associationbilancarbone.fr/), [Climate Chance](https://www.climate-chance.org/, [World Resources Institut](https://www.wri.org/data-lab), [Our World In Data](https://ourworldindata.org/), [Carbon Disclosure Project](https://www.cdp.net/en/investor/ghg-emissions-dataset)…)
-- **Spécialiste des données** travaillant sur des projets nécessitant l’usage des données d’émissions.
-- **Académique:** étudiants, doctorants et chercheurs ayant besoin d'exploiter et de croiser des indicateurs d’émissions de GEs
-- 
+- **Organismes non gouvernementaux** militants dans les questions climatiques et environnementales ([Notre affaire à tous](https://notreaffaireatous.org/), [The Shift Project](https://theshiftproject.org/), [Les amis de la terre](https://www.amisdelaterre.org/), [Association Bilan Carbone](https://www.associationbilancarbone.fr/), [Climate Chance](https://www.climate-chance.org/), [World Resources Institut](https://www.wri.org/data-lab), [Our World In Data](https://ourworldindata.org/), [Carbon Disclosure Project](https://www.cdp.net/en/investor/ghg-emissions-dataset)…)
+- **Spécialiste des données** travaillant sur des projets nécessitant l’usage des données d’émissions de GESs.
+- **Académique:** étudiants, doctorants et chercheurs ayant besoin d'exploiter et de croiser des indicateurs d’émissions de GESs
+
 Un travail de recensement et de spécification des usages des données des GESs et des besoins de qualification associées est nécessaire tout au long de la première phase du projet
 
 ## Contributeurs
 
-En tant que projet open source , la contribution à OpenGeoScales est ouverte à toute personne intéressée par les données liées aux enjeux climatiques, en fonction bien sûr des expertises et compétences:
+En tant que projet open source, la contribution à OpenGeoScales est ouverte à toute personne intéressée par les données liées aux enjeux climatiques, en fonction bien sûr des expertises et compétences:
 
 - **Expertise data:**
   - Collecte et stockage des données
@@ -90,8 +90,9 @@ En tant que projet open source , la contribution à OpenGeoScales est ouverte à
 ### Data For Good
 
 Le projet OpenGeoScales présente des synergies avec des précédents projets d’accélération Data For Good au niveau de la thématique (émissions des GESs) et du livrable (Standardisation des données et API).
-Projets portant sur des thématiques liées aux émissions des GESs: [Outil BEGES](https://dataforgood.fr/projects/7_Beges.html), [2TONNES](https://dataforgood.fr/projects/7_2tonnes.html),  [CO2 Plume Detector](https://dataforgood.fr/projects/7_OCO2.html), [banque mondiale - risques naturels](https://github.com/dataforgoodfr/batch8_worldbank), [carbone 4](https://github.com/dataforgoodfr/batch8_carbone4).
-Projet aboutissant à une standardisation de données publiques et développement d’API pour y accéder: [ARKHN](https://dataforgood.fr/projects/5_arkhn.html)
+
+- Projets portant sur des thématiques liées aux émissions des GESs: [Outil BEGES](https://dataforgood.fr/projects/7_Beges.html), [2TONNES](https://dataforgood.fr/projects/7_2tonnes.html),  [CO2 Plume Detector](https://dataforgood.fr/projects/7_OCO2.html), [banque mondiale - risques naturels](https://github.com/dataforgoodfr/batch8_worldbank), [carbone 4](https://github.com/dataforgoodfr/batch8_carbone4).
+- Projet aboutissant à une standardisation de données publiques et développement d’API pour y accéder: [ARKHN](https://dataforgood.fr/projects/5_arkhn.html)
 
 Des rapprochements avec les contributeurs de ces projets sont nécessaires afin de profiter de leur retour d'expérience et de partager les connaissances (méthodologique, théorique et technique) pour mieux mener le projet OpenGeoScales.
 
@@ -122,7 +123,7 @@ Le schéma ci-dessous présente une feuille de route préliminaire pour délivre
 
 ## Gestion de projet
 
-Le code source sera disponible sur Github. Un repository dédié aux données carbone a déjà été créé et est utilisé: [Repo CarbonData](https://github.com/OpenGeoScales/CarbonData)
+Le code source sera disponible sur Github. Un repository dédié aux données carbone a déjà été créé et est utilisé: [Repository CarbonData](https://github.com/OpenGeoScales/CarbonData)
 
 Github Projects sera utilisé comme outil de gestion du développement des différentes fonctionnalités. Il permet de suivre l'évolution des tâches matérialisées comme des ‘issues’ via un board Kanban automatisé. Un premier projet est en cours et qui peut être consulté ici: [CarbonData Project Board](https://github.com/OpenGeoScales/CarbonData/projects/2)
 
