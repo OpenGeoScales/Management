@@ -3,6 +3,9 @@
 Les enjeux environnementaux prennent de plus en plus d’importance dans les politiques publiques ainsi que dans notre vie quotidienne.  La connaissance de l’état de notre planète et de l’impact des activités humaines sur l’environnement nécessite un accès libre et facile à des données fiables, consolidées, agrégées et documentées.
 Alors que plusieurs plateformes et portails d’open data publient des données environnementales pertinentes (qualité d'air, émissions de gaz à effet de serre, risques naturels, ressources énergétiques…), l’usage de ces données s’avère souvent complexe et fastidieux. Un travail d’identification et de cartographie des différentes sources ainsi que des traitements de nettoyage, recodage, normalisation, croisement, consolidation et agrégation à différentes échelles géographiques est souvent nécessaire avant de pouvoir exploiter les données disponibles.
 
+--------
+Ce document décrit le projet OpenGeoScales présenté dans le cadre de la saison 9 du programme Data For Good. Un document technique complémentaire présentant des premières explorations des données liées aux émissions des gaz à effet de serre est disponible ici: https://opengeoscales.github.io/CarbonData/
+---------
 
 ### Markdown
 
