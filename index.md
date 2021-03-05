@@ -1,10 +1,11 @@
 
 
-> Ce document décrit le projet OpenGeoScales présenté dans le cadre de la saison 9 du programme Data For Good. Un document technique complémentaire présentant des premières  explorations des données liées aux émissions des gaz à effet de serre est disponible ici: https://opengeoscales.github.io/CarbonData/
+> Ce document décrit le projet OpenGeoScales présenté dans le cadre de la saison 9 du programme Data For Good. Un document technique complémentaire présentant des premières  explorations des données liées aux émissions des gaz à effet de serre est disponible [ici<)(https://opengeoscales.github.io/CarbonData/)
 >
 > Mots clé: `Open Data`, `Geospatial scales`, `Climate Change`, `GHG emissions`, `Standardization`, `Open Source`
 >
 > Auteur & porteur de projet: Saif Shabou
+> 
 > Date: 04/03/2021
 
 ----
