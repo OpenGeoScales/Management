@@ -114,15 +114,8 @@ Le recensement des principaux acteurs du conseil carbone effectué par l’Assoc
 
 Le schéma ci-dessous présente une feuille de route préliminaire pour délivrer une première itération du projet OpenGeoScales restreinte sur la standardisation et l’exposition des données de GESs à différentes échelles du territoire Français.
 
-![Roadmap](https://github.com/OpenGeoScales/Management/blob/main/images/OGS%20-%20Workflow.png?raw=true)
+![Roadmap](https://github.com/OpenGeoScales/Management/blob/main/images/Roadmap.png?raw=true)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-![Roadmap](https://github.com/OpenGeoScales/Management/blob/gh-pages/Roadmap.png)
-
-![Roadmap](https://raw.githubusercontent.com/Management/blob/gh-pages/Roadmap.pngg)
-
-![ ](https://raw.githubusercontent.com/S-AI-F/CDP-Kaggle/main/Method.png)
 
 ## Gestion de projet
 
