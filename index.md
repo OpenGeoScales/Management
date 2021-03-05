@@ -115,6 +115,10 @@ Le schéma ci-dessous présente une feuille de route préliminaire pour délivre
 
 ![Roadmap](https://github.com/OpenGeoScales/Management/blob/main/images/OpenGeoScales%20Roadmap.png)
 
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+images/OpenGeoScales Roadmap.png
+
 ## Gestion de projet
 
 Le code source sera disponible sur Github. Un repository dédié aux données carbone a déjà été créé et est utilisé: https://github.com/OpenGeoScales/CarbonData
