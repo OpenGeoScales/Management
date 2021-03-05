@@ -114,3 +114,16 @@ Le recensement des principaux acteurs du conseil carbone effectué par l’Assoc
 Le schéma ci-dessous présente une feuille de route préliminaire pour délivrer une première itération du projet OpenGeoScales restreinte sur la standardisation et l’exposition des données de GESs à différentes échelles du territoire Français.
 
 ![Roadmap](https://github.com/OpenGeoScales/Management/blob/main/images/OpenGeoScales%20Roadmap.png)
+
+## Gestion de projet
+
+Le code source sera disponible sur Github. Un repository dédié aux données carbone a déjà été créé et est utilisé: https://github.com/OpenGeoScales/CarbonData
+
+Github Projects sera utilisé comme outil de gestion du développement des différentes fonctionnalités. Il permet de suivre l'évolution des tâches matérialisées comme des ‘issues’ via un board Kanban automatisé. Un premier projet est en cours et qui peut être consulté ici: https://github.com/OpenGeoScales/CarbonData/projects/2
+
+Les itérations seront basées sur des sprints de 2 semaines avec des objectifs bien précis à définir en amont.
+
+Les modalités de contribution seront co-définies avant le début de la saison avec l’attribution de différents rôles aux contributeurs, en fonction de leurs appétences et expertises.
+
+Un canal Slack sera mis en place pour assurer la communication entre les contributeurs.
+
