@@ -26,6 +26,7 @@ Le projet proposé dans le cadre de la saison 9 de Data for Good consiste à imp
 Le livrable principal de cette saison consiste en une base de données qui réunit les différentes données d’émissions de GESs à différentes échelles en France accompagnée des traitements appliqués sur les données brutes pour les harmoniser ainsi qu’une API permettant d’accéder et de requêter les données standardisées
 -------
 
+
 ### Livrables 
 
 Plusieurs livrables intermédiaires sont nécessaires afin d’atteindre le principal objectif défini pour la saison 9:
