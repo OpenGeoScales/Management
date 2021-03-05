@@ -118,7 +118,7 @@ Le schéma ci-dessous présente une feuille de route préliminaire pour délivre
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-![Roadmap](https://github.com/OpenGeoScales/Management/blob/main/images/Roadmap.png)
+![Roadmap](https://github.com/OpenGeoScales/Management/blob/gh-pages/Roadmap.png)
 
 ## Gestion de projet
 
