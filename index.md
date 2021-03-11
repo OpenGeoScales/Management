@@ -126,7 +126,7 @@ La roadmap présentés ci-dessus présente les phases de développement durant l
 
 - **Nouvelles fonctionnalités:**
   - Construction de site web pour héberger l’ensemble des articles produits et centraliser la documentation technico-fonctionnelle des données et de l’API ainsi que les différentes connaissances formalisées autour des émissions des GESs.
-- Construction de dashboards et d’outils de géo-visualisation des données compilées.
+  - Construction de dashboards et d’outils de géo-visualisation des données compilées.
 - **Reproduction sur d’autre thématiques:** Implémenter le même processus sur d’autres types de données liées aux enjeux climatiques: énergie, risques naturels, qualité d’air, déforestation…
 - **Reproduction sur d’autres territoire:** Reproduire le travail effectué sur d’autres territoire et étendre la communauté Open Source
 - **Communication:** 
