@@ -1,4 +1,4 @@
-[PROJECT](./index.html) | [MEETINGS](./meetings.html) | [TEAM](./team.html) | [ORGA](./orga.html) | [DATA](./pages/data.html)  | [TECH](./tech.html) | [ROADMAP](./roadmap.html) | [REFERENCES](./references.html)
+[PROJECT](./index.html) | [MEETINGS](./pages/meetings.html) | [TEAM](./pages/team.html) | [DATA](./pages/data.html)  | [TECH](./pages/tech.html) | [ROADMAP](./pages/roadmap.html) | [REFERENCES](./pages/references.html)
 
 # Meeting 31/03/2021
 
@@ -12,7 +12,7 @@ Voici l'ordre du jour pour ce premier échange. Si vous voulez y participez, n'h
   - Tour de table et présentation rapide des participants: background, compétences, intérêts
   - Combien de temps pouvons-nous consacrer au projet? 
  
-  --> Vous trouverez plus d'infos sur l'équipe en cours de construction [ICI](./team.html)
+  --> Vous trouverez plus d'infos sur l'équipe en cours de construction [ICI](./pages/team.html)
 
 - **2- Présentation du projet OpenGeoScales**
   - Pourquoi OpenGeoScales?
@@ -20,7 +20,7 @@ Voici l'ordre du jour pour ce premier échange. Si vous voulez y participez, n'h
   - Quel est l'état du projet (travaux en cours, données collectées et analysées, avancements...)?
   - Questions/réponses: N'hésitez pas à poser toutes vos questions? Nous n'avons probablement pas toutes les réponses, mais on fera de notre mieux! 
   
---> Vous trouverez plus d'infos sur les données à explorer et intégrer [ICI](./data.html)
+--> Vous trouverez plus d'infos sur les données à explorer et intégrer [ICI](./pages/data.html)
 
 - **3- Comment allon-nous travailler ensemble?**
   - Liste et catégories des tâches à accomplir par profil: 
@@ -36,12 +36,12 @@ Voici l'ordre du jour pour ce premier échange. Si vous voulez y participez, n'h
   - Collecte de feedbacks et des compétences des particpants
   - Création d'accès aux données brutes
 
---> Vous trouverez plus d'infos sur notre stack technique provisoire [ICI](./tech.html)
+--> Vous trouverez plus d'infos sur notre stack technique provisoire [ICI](./pages/tech.html)
 
 - **5- Et après?**
   - S'assurer que tous les participants ont des tâches précises à accomplir pour la semaine à venir
   - Fixer la date/heure du prochain point 
 
---> Vous trouverez plus d'infos sur roadmap provisoire [ICI](./roadmap.html)
+--> Vous trouverez plus d'infos sur roadmap provisoire [ICI](./pages/roadmap.html)
 
 # Meeting 07/04/2021
