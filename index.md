@@ -146,3 +146,5 @@ Les modalités de contribution seront co-définies avant le début de la saison 
 
 Un canal Slack sera mis en place pour assurer la communication entre les contributeurs.
 
+[link to meetings](https://github.com/OpenGeoScales/Management/blob/gh-pages/Meetings.md)
+
