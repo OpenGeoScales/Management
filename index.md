@@ -114,25 +114,8 @@ Le recensement des [principaux acteurs du conseil carbone](https://www.associati
 
 - [Open Climate Data:](https://openclimatedata.net/) Open Climate Data propose un repository Github de différentes données en rapport avec les enjeux climatiques (émissions CO2, actions climats, pays signataires des accords climats…) ainsi que des notebooks qui explorent leurs contenus.
 
-## Roadmap
+### Open Knowledge Foundation
 
-Le schéma ci-dessous présente une feuille de route préliminaire pour délivrer une première itération du projet OpenGeoScales restreinte sur la standardisation et l’exposition des données de GESs à différentes échelles du territoire Français.
-
-![Roadmap](https://github.com/OpenGeoScales/Management/blob/main/images/Roadmap.png?raw=true)
-
-### Et après?
-
-La roadmap présentés ci-dessus présente les phases de développement durant l’itération de 3 mois de la saison 9 de Data For Good. Des perspectives d’évolution et d’élargissement sont prévus après la saison d’accélération:
-
-- **Nouvelles fonctionnalités:**
-  - Construction de site web pour héberger l’ensemble des articles produits et centraliser la documentation technico-fonctionnelle des données et de l’API ainsi que les différentes connaissances formalisées autour des émissions des GESs.
-  - Construction de dashboards et d’outils de géo-visualisation des données compilées.
-- **Reproduction sur d’autre thématiques:** Implémenter le même processus sur d’autres types de données liées aux enjeux climatiques: énergie, risques naturels, qualité d’air, déforestation…
-- **Reproduction sur d’autres territoire:** Reproduire le travail effectué sur d’autres territoire et étendre la communauté Open Source
-- **Communication:** 
-  -  Partage et communication des résultats et du produit réalisé dans le cadre d'événements qui adressent les questions climate/data.
-  -  Elargir le cercle de partenariat 
-- **Performance:** Identifier les pistes d’améliorations en termes de performance et de structuration des traitements des données.
 
 ## Gestion de projet
 
@@ -146,6 +129,4 @@ Les modalités de contribution seront co-définies avant le début de la saison 
 
 Un canal Slack sera mis en place pour assurer la communication entre les contributeurs.
 
-[link to meetings](https://github.com/OpenGeoScales/Management/blob/gh-pages/Meetings.md)
 
-[link to meetings](./Meetings.html)
