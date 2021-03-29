@@ -7,9 +7,9 @@ L'objectif principal de ce premier échange est de se connaître et de vous four
 Pour rappel, OpenGeoScales est un jeune projet 100% ouvert. C'est l'occasion pour vous de particper à la construction du premier prototype!
 Nous sommes preneurs de tous types de conseils, aides, supports, connaissances...
 
----
+
 Voici l'ordre du jour pour ce premier échange. **Si vous voulez y participez, n'hésitez pas à mentionner votre intérêt dans le canal slack #9_open_geo-scales et votre adresse mail pour qu'on puisse vous envoyer le lien de la réunion!**
----
+
 
 - **1- Qui sommes-nous?**
 
