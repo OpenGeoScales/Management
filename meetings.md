@@ -12,14 +12,14 @@ Voici l'ordre du jour pour ce premier échange. **Si vous voulez y participez, n
 ---
 
 - **1- Qui sommes-nous?**
--
+
   - Tour de table et présentation rapide des participants: background, compétences, intérêts...
   - Combien de temps pouvons-nous consacrer au projet? 
  
   --> Vous trouverez plus d'infos sur l'équipe en cours de construction [ICI](./pages/team.html)
 
 - **2- Présentation du projet OpenGeoScales**
-- 
+
   - Pourquoi OpenGeoScales?
   - Qu'est ce qu'on veut livrer pour la saison 9 de Data For Good?
   - Quel est l'état du projet (travaux en cours, données collectées et analysées, avancements...)?
