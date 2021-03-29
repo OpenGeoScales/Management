@@ -148,3 +148,4 @@ Un canal Slack sera mis en place pour assurer la communication entre les contrib
 
 [link to meetings](https://github.com/OpenGeoScales/Management/blob/gh-pages/Meetings.md)
 
+[link to meetings](./Meetings.html)
