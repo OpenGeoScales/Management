@@ -4,7 +4,7 @@
 >
 > Mots clé: `Open Data`, `Geospatial scales`, `Climate Change`, `GHG emissions`, `Standardization`, `Open Source`
 >
-> Auteur & porteur de projet: Saif Shabou
+> Auteur & porteur de projet: [Saif Shabou](https://saif-shabou.netlify.app/)
 > 
 > Date: 29/03/2021
 
