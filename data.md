@@ -1,6 +1,9 @@
 [PROJECT](./index.html) | [MEETINGS](./meetings.html) | [TEAM](./team.html) | [DATA](./data.html)  | [TECH](./tech.html) | [ROADMAP](./roadmap.html) | [REFERENCES](./references.html)
 
 
+Ceci est notre première cartographie des sources des données liées aux émissions de gaz à effet de serre à différentes échelles géospatiales. 
+Cette liste n'est pas encore finalisée! Nous comptons sur vous pour nous aider à l'alimenter avec de nouvelles sources!
+
 # International scale
 
 Data provider | Description | Geoscale | Data sources | Access |
