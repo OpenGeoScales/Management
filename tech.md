@@ -17,7 +17,7 @@ Structure des compartiments:
 
 ## kedro
 
-Pour une documentation complète de l'usage de kedro pour développer les connecteurs OpenGeoScales, voir ce lien:
-https://github.com/OpenGeoScales/ogs-connectors
+Pour une documentation complète de l'usage de kedro pour développer les connecteurs OpenGeoScales, voir [ce lien](https://github.com/OpenGeoScales/ogs-connectors).
+
 
 # API exposition
