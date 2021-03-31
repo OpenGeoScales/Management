@@ -1,4 +1,4 @@
-[PROJECT](./index.html) | [MEETINGS](./meetings.html) | [TEAM](./team.html) |  [DATA](./pages/data.html)  | [TECH](./pages/tech.html) | [ROADMAP](./pages/roadmap.html) | [REFERENCES](./pages/references.html)
+[PROJECT](./index.html) | [MEETINGS](./meetings.html) | [TEAM](./team.html) | [DATA](./data.html)  | [TECH](./tech.html) | [ROADMAP](./roadmap.html) | [REFERENCES](./references.html)
 
 > Ce document décrit le cadrage fonctionnel du projet OpenGeoScales présenté dans le cadre de la saison 9 du programme Data For Good. Un document technique complémentaire présentant des premières explorations des données liées aux émissions des gaz à effet de serre est disponible [dans ce lien](https://opengeoscales.github.io/CarbonData/).
 >
