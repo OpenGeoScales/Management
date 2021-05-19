@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome to OpenGeoScales  👋</h1>
-<h2 align="center">Unlocking Climate Change Data & Knwoledge </h2>
+<h2 align="center">Unlocking Climate Change Data & Knowledge </h2>
 
 <p align="center">
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/OpenGeoScales/Management/blob/main/images/logo.jpg" />
+  <img src="https://github.com/OpenGeoScales/Management/blob/main/images/Logo final white.png" />
 </p>
+
 
 # Short presentation
 
